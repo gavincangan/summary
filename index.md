@@ -1,6 +1,7 @@
 ---
-title: 'Barnabas Gavin Cangan - Spring 2019'
+title: 'Barnabas Gavin Cangan - Summary'
 ---
+
 <h1 align='center'> Barnabas Gavin Cangan </h1>
 <p align='center'> 
 <a href='mailto:bgavin@vt.edu'>bgavin@vt.edu</a> | 
