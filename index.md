@@ -37,7 +37,8 @@ Experience
 
 - **Reverse-engineered** raw vehicle CAN bus data using open source tools
 
-### Bosch - Software Developer
+
+### Bosch - Software Engineer (Automotive Steering)
 
 - Worked on the **Chrysler KL19/K8** platform (Jeep Cherokee 2019)
 
@@ -52,7 +53,8 @@ Experience
 - Wrote and tested a **custom bootloader** with CRC-adjust and self-cleanup functions as a workaround to flash new **recovery boot**
 and to clean **NvM** data.
 
-### Bosch India - Software Developer
+
+### Bosch India - Software Engineer (Automotive Steering)
 
 - Worked on the **GM E2xx** and **Ford CD4.3** project platforms
 
@@ -63,6 +65,7 @@ and to clean **NvM** data.
 - Developed and tested **CAN I/O** abstraction and **UDS** modules.
 
 - Created and **performed tests** based on internal and OEM requirements.
+
 
 Research
 ========
@@ -82,6 +85,7 @@ Analyzing large volumes of genomic data and developing models to make threat pre
 - Wrote a data **pipeline in C++** to reduce model inference time by **&gt;50%**
 
 - Co-Taught an **Introduction to Machine Learning** undergraduate class
+
 
 Projects
 ========
@@ -106,6 +110,7 @@ Projects
 
 - Used model-based planning to solve a POMDP in a multi-agent system with limited sensing *\[Python + Keras\]*
 
+
 Coursework
 ==========
 
@@ -128,6 +133,7 @@ Undergraduate
 - Data Structures
 - Object-Oriented Programming
 - Microprocessors & Microcontrollers
+
 
 Skills
 ======
