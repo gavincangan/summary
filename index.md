@@ -8,7 +8,7 @@ title: 'Barnabas Gavin Cangan - Summary'
 <a href='http://bgav.in'>bgav.in</a>  |  
 <a href='https://github.com/gavincangan'>Github</a>  |  
 <a href='https://www.linkedin.com/in/cangan'>LinkedIn</a>  |  
-<a href='https://resume.bgav.in'>Resume</a>
+<a href='https://resume.bgav.in'>Resume</a>z
 </p>
 
 <!-- [ **GitHub**](https://github.com/gavincangan)\ -->
@@ -90,23 +90,23 @@ Analyzing large volumes of genomic data and developing models to make threat pre
 Projects
 ========
 
-### Multi-Agent Path Planning using Conflict-based Search ([code](https://github.com/gavincangan/multiagent-pathfinding), [video](https://www.youtube.com/watch?v=b5KMm729b_4))
+### Multi-Agent Path Planning using Conflict-based Search <[code](https://github.com/gavincangan/multiagent-pathfinding), [video](https://www.youtube.com/watch?v=b5KMm729b_4)>
 
 - Used space-time A\*-based search and conflict resolution to solve multi-agent pathfinding *\[Python\]*
 
-### Adaptive Face Tracking in Unconstrained Videos ([code](https://github.com/gavincangan/AdaptiveFaceTracking))
+### Adaptive Face Tracking in Unconstrained Videos <[code](https://github.com/gavincangan/AdaptiveFaceTracking)>
 
 - Tracking multiple faces in sitcom videos using a combination of face detection and optical flow tracking *\[Python + OpenCV, TensorFlow\]*
 
-### Mapping and Tracking a Target using a Ground Robot ([code](https://github.com/gavincangan/bayesian-robotics) [video](https://www.youtube.com/playlist?list=PLrq85AiKQ1UQ7Xlcx6CEyrwCmWUAM_3p7))
+### Mapping and Tracking a Target using a Ground Robot <[code](https://github.com/gavincangan/bayesian-robotics), [video](https://www.youtube.com/playlist?list=PLrq85AiKQ1UQ7Xlcx6CEyrwCmWUAM_3p7)>
 
 - Fused camera and LIDAR sensor data to track an object using an Extended Kalman Filter and performed SLAM *\[Python + ROS, OpenCV\]*
 
-### Quadrotor Wind-backwash Prediction ([code](https://github.com/gavincangan/wind-prediction))
+### Quadrotor Wind-backwash Prediction <[code](https://github.com/gavincangan/wind-prediction)>
 
 - Used a combination IMU and RC data with stereo vision to learn to predict the effect of rotor wind backwash *\[Python + ROS, Keras\]*
 
-### Learning to Explore in the Context of Multi-agent Shape Formation ([code](https://github.com/gavincangan/modelbased-shapeformation))
+### Learning to Explore in the Context of Multi-agent Shape Formation <[code](https://github.com/gavincangan/modelbased-shapeformation)>
 
 - Used model-based planning to solve a POMDP in a multi-agent system with limited sensing *\[Python + Keras\]*
 
