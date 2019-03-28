@@ -15,14 +15,12 @@ title: 'Barnabas Gavin Cangan - Spring 2019'
 Education
 =========
 
-Virginia Tech
--------------
+### Virginia Tech
 
 - Master of Science - Electrical Engineering
 - GPA: 3.85 / 4.0
 
-Anna University
----------------
+### Anna University
 
 - Bachelor of Engineering - Electrical and Electronics Engineering
 - Government College of Technology
@@ -31,13 +29,13 @@ Anna University
 Experience
 ==========
 
-## Virginia Tech Transportation Institute (VTTI) - Engineering Intern
+### Virginia Tech Transportation Institute (VTTI) - Engineering Intern
 
 - Developed software for **RTK-GPS** transmitter module using **NTRIP** protocol
 
 - **Reverse-engineered** raw vehicle CAN bus data using open source tools
 
-## Bosch - Software Developer
+### Bosch - Software Developer
 
 - Worked on the **Chrysler KL19/K8** platform (Jeep Cherokee 2019)
 
@@ -52,7 +50,7 @@ Experience
 - Wrote and tested a **custom bootloader** with CRC-adjust and self-cleanup functions as a workaround to flash new **recovery boot**
 and to clean **NvM** data.
 
-## Bosch India - Software Developer
+### Bosch India - Software Developer
 
 - Worked on the **GM E2xx** and **Ford CD4.3** project platforms
 
@@ -67,13 +65,13 @@ and to clean **NvM** data.
 Research
 ========
 
-## Coordination at Scale Lab - Research Assistant
+### Coordination at Scale Lab - Research Assistant
 
 Working on my thesis with **[Prof. Ryan Williams](https://autonomyandrobotics.centers.vt.edu/people/williams.html)** on an NSF-funded [multi-robot multi-human **search and rescue**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1830414) research project.
 
 - Developing an adaptive **multi-agent** human-in-the-loop **path planning** algorithm to enable coordination with human search teams.
 
-## Network Dynamics and Simulation Science Lab - Research Assistant
+### Network Dynamics and Simulation Science Lab - Research Assistant
 
 Analyzing large volumes of genomic data and developing models to make threat predictions for the IARPA-funded **[FunGCAT](https://www.iarpa.gov/index.php/research-programs/fun-gcat)** project.
 
@@ -86,23 +84,23 @@ Analyzing large volumes of genomic data and developing models to make threat pre
 Projects
 ========
 
-### Multi-Agent Path Planning using Conflict-based Search [code](https://github.com/gavincangan/multiagent-pathfinding) [video](https://www.youtube.com/watch?v=b5KMm729b_4)  {#multi-agent-path-planning-using-conflict-based-search .unnumbered}
+### Multi-Agent Path Planning using Conflict-based Search [code](https://github.com/gavincangan/multiagent-pathfinding) [video](https://www.youtube.com/watch?v=b5KMm729b_4)
 
 - Used space-time A\*-based search and conflict resolution to solve multi-agent pathfinding *\[Python\]*
 
-### Adaptive Face Tracking in Unconstrained Videos [code](https://github.com/gavincangan/AdaptiveFaceTracking)  {#adaptive-face-tracking-in-unconstrained-videos .unnumbered}
+### Adaptive Face Tracking in Unconstrained Videos [code](https://github.com/gavincangan/AdaptiveFaceTracking)
 
 - Tracking multiple faces in sitcom videos using a combination of face detection and optical flow tracking *\[Python + OpenCV, TensorFlow\]*
 
-### Mapping and Tracking a Target using a Ground Robot [code](https://github.com/gavincangan/bayesian-robotics) [video](https://www.youtube.com/playlist?list=PLrq85AiKQ1UQ7Xlcx6CEyrwCmWUAM_3p7) {#mapping-and-tracking-a-target-using-a-ground-robot .unnumbered}
+### Mapping and Tracking a Target using a Ground Robot [code](https://github.com/gavincangan/bayesian-robotics) [video](https://www.youtube.com/playlist?list=PLrq85AiKQ1UQ7Xlcx6CEyrwCmWUAM_3p7)
 
 - Fused camera and LIDAR sensor data to track an object using an Extended Kalman Filter and performed SLAM *\[Python + ROS, OpenCV\]*
 
-### Quadrotor Wind-backwash Prediction [code](https://github.com/gavincangan/wind-prediction) {#quadrotor-wind-backwash-prediction .unnumbered}
+### Quadrotor Wind-backwash Prediction [code](https://github.com/gavincangan/wind-prediction)
 
 - Used a combination IMU and RC data with stereo vision to learn to predict the effect of rotor wind backwash *\[Python + ROS, Keras\]*
 
-### Learning to Explore in the Context of Multi-agent Shape Formation [code](https://github.com/gavincangan/modelbased-shapeformation) {#learning-to-explore-in-the-context-of-multi-agent-shape-formation .unnumbered}
+### Learning to Explore in the Context of Multi-agent Shape Formation [code](https://github.com/gavincangan/modelbased-shapeformation)
 
 - Used model-based planning to solve a POMDP in a multi-agent system with limited sensing *\[Python + Keras\]*
 
@@ -112,21 +110,21 @@ Coursework
 Graduate
 --------
 
-- Applied Linear Systems\
-- Computer Vision\
-- Adv. Decision Making for Robotics\
-- Autonomous Coordination\
-- Nonlinear Systems\
-- Optimization Techniques\
-- Bayesian Robotics\
-- Adv. Robot Motion Planning\*\
+- Applied Linear Systems
+- Computer Vision
+- Adv. Decision Making for Robotics
+- Autonomous Coordination
+- Nonlinear Systems
+- Optimization Techniques
+- Bayesian Robotics
+- Adv. Robot Motion Planning\*
 - Adaptive Control Systems\*
 
 Undergraduate
 -------------
 
-- Data Structures\
-- Object-Oriented Programming\
+- Data Structures
+- Object-Oriented Programming
 - Microprocessors & Microcontrollers
 
 Skills

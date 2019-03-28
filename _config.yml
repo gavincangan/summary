@@ -1,5 +1,4 @@
 theme: jekyll-theme-slate
-show_downloads: true
 
 relative_links:
   enabled: true
