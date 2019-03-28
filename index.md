@@ -138,7 +138,6 @@ Programming
   C | C++ |Python      
   MATLAB | Cython      
   Bash scripting       
-  ----------------- -- --
 
 Tools
 -----
@@ -146,14 +145,12 @@ Tools
   ------------------------ -- --
   ROS | Gazebo | OpenCV       
   TensorFlow/Keras | Git      
-  ------------------------ -- --
 
   -------------------------------- -- --
   CANoe | CANape                      
   ClearCase | ClearQuest | DOORS      
   Enterprise Architect | Jenkins      
   EB Tresos NvM/OS                    
-  -------------------------------- -- --
 
 Standards
 ---------
@@ -161,4 +158,3 @@ Standards
   -------------------------------- -- --
   MISRA | V-Model SW development      
   ISO26262 | ISO14229                 
-  -------------------------------- -- --
