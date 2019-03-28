@@ -4,10 +4,11 @@ title: 'Barnabas Gavin Cangan - Summary'
 
 <h1 align='center'> Barnabas Gavin Cangan </h1>
 <p align='center'> 
-<a href='mailto:bgavin@vt.edu'>bgavin@vt.edu</a> | 
-<a href='http://bgav.in'>bgav.in</a> | 
-<a href='https://github.com/gavincangan'>Github</a> | 
-<a href='https://www.linkedin.com/in/cangan'>LinkedIn</a>
+<a href='mailto:bgavin@vt.edu'>bgavin@vt.edu</a>  |  
+<a href='http://bgav.in'>bgav.in</a>  |  
+<a href='https://github.com/gavincangan'>Github</a>  |  
+<a href='https://www.linkedin.com/in/cangan'>LinkedIn</a>  |  
+<a href='https://resume.bgav.in'>Resume</a>
 </p>
 
 <!-- [ **GitHub**](https://github.com/gavincangan)\ -->
