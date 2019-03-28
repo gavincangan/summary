@@ -29,7 +29,7 @@ Education
 Experience
 ==========
 
-### Tech Transportation Institute @VT (VTTI) - Engineering Intern
+### Transportation Institute @VT (VTTI) - Engineering Intern
 
 - Developed software for **RTK-GPS** transmitter module using **NTRIP** protocol
 
