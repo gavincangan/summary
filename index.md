@@ -142,7 +142,7 @@ Programming
 -----------
 
   ----------------- -- --
-  C | C++ |Python      
+  C | C++ | Python      
   MATLAB | Cython      
   Bash scripting       
 
