@@ -8,7 +8,7 @@ title: 'Barnabas Gavin Cangan - Summary'
 <a href='http://bgav.in'>bgav.in</a>  |  
 <a href='https://github.com/gavincangan'>Github</a>  |  
 <a href='https://www.linkedin.com/in/cangan'>LinkedIn</a>  |  
-<a href='https://resume.bgav.in'>Resume</a>z
+<a href='https://resume.bgav.in'>Resume</a>
 </p>
 
 <!-- [ **GitHub**](https://github.com/gavincangan)\ -->
